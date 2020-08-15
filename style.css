@@ -47,6 +47,11 @@ a:hover{
 i {
     margin: 0.8rem 1rem 1.2rem 1rem;
 }
+.p-link1{
+    
+    text-decoration: none;
+    align-items: center
+}
 .p-link{
     text-decoration: none;
     align-items: center;
