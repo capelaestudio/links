@@ -9,6 +9,7 @@ body{
 
 .insta-capela{
     margin-top: 0px;
+    color: #3D3D4D;
 }
 hr{
     min-width: 300px;
@@ -36,7 +37,6 @@ hr{
 .button:hover{
     background-color: #fff;
     border-color: #667EEC;
-    border:
 }
 a{
 	justify-content: center;
